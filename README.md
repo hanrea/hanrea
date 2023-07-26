@@ -6,7 +6,7 @@
 
 
 - 💬 ask me about anything, i am happy to help;
-- 💼 any freelance work? do reach!  :) [email](mailto:hanrea@qq.com) 
+- 💼 any freelance work? do reach!  :) [Discord](https://discord.gg/Ew52gJ3b) 
 
 <br />
 
