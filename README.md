@@ -9,3 +9,15 @@
 - 💼 any freelance work? do reach!  :) [Discord](https://discord.gg/Ew52gJ3b) 
 
 <br />
+
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=hanrea&include_all_commits=true&card_width=415&line_height=24" alt="statistics">
+</span>
+<span>
+  &nbsp;
+  &nbsp;
+</span>
+<span>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hanrea&layout=compact&langs_count=8" alt="statistics">
+</span>
+
